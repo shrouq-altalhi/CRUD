@@ -4,7 +4,6 @@ import Create from "./components/Create";
 import Read from "./components/Read";
 import Update from "./components/Update";
 import { Routes, Route } from "react-router-dom";
-import Home from "./components/Home";
 
 function App() {
   // const [state, setState] = React.useState([]);
